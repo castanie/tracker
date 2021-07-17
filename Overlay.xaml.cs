@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace tracker
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Overlay.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Overlay : Window
     {
-        public MainWindow()
+        public Overlay()
         {
             InitializeComponent();
         }
